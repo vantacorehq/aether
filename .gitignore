@@ -1,0 +1,6 @@
+*.o
+*.a
+example
+a.out
+*.exe
+.DS_Store
